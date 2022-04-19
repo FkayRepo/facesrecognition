@@ -1,0 +1,17 @@
+.tilt:hover{
+	transform: skewY(10deg);
+	transform: skewX(5deg);
+
+}
+
+.s{
+	width: 100px;
+	height: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.c1{
+	background:linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}

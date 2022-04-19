@@ -1,0 +1,62 @@
+.body{
+	background: inherit;
+	font-family:  "Courier New", Courier, monospace;
+	text-align: center;
+	align-items: center;
+
+}
+.container{
+
+	display: flex;
+	justify-content: flex-end;
+	background: inherit;
+	font-family:  "Courier New", Courier, monospace;
+	text-align: center;
+	align-items: center;
+}
+
+
+.nav-bar{
+	display: flex;
+	width:  320px;
+}
+
+.Signform{
+	display:inline-block;
+	margin-top: 50px;
+	width: 350px;
+
+}
+
+.inherit{
+
+	background-color: inherit;
+}
+
+
+.c-black:focus, .c-black:hover{
+	background-color: black;
+	color: white;
+}
+
+.btn-sign:hover{
+
+
+	background: black;
+	color: white;
+
+}
+
+.blue{
+	background:linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}
+
+.bold:hover{
+
+	font-weight: bold;
+}
+
+input:after{
+	background-color: black;
+	color: black;
+}
